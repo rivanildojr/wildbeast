@@ -85,6 +85,15 @@ img {
   gap: 30px;
 }
 
+.imagem-1 {
+  grid-row: span 2;
+  align-self: end;
+}
+
+.imagem-2 {
+  align-self: end;
+}
+
 .col-wide {
   grid-column: 1 / -1;
 }
