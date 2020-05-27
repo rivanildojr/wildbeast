@@ -36,15 +36,16 @@
 
 ### Grid-auto-columns
 
-    -
+    - Define o tamanho das colunas do grid geradas automaticamente.
 
 ### Grid-auto-rows
 
-    -
+    - Define o tamanho das linhas do grid geradas automaticamente.
 
 ### Grid-auto-flow
 
-    -
+    - Define o fluxo dos itens no grid;
+    - Gerados em linhas, colunas ou dense (coloca em qualquer lugar que tenha espaço para o item da grid).
 
 ### Grid
 
@@ -69,10 +70,6 @@
 
     - Controla o alinhamento dos elementos grid no eixo vertical, com relação a célula. (start, end, stretch, center);
     - O padrão é os elementos ficaram esticados (stretch).
-
-### Observações
-
-    -
 
 ## Grid Item
 
@@ -106,10 +103,16 @@
     - Controla o alinhamento do elemento específico do grid no eixo vertical, com relação a célula. (start, end, stretch, center);
     - O padrão é os elementos ficaram esticados (stretch).
 
-### Observações
+### place-self
 
-    -
+    - Atalho para as propriedades: align-self e justify-self.
 
 ## Materiais de Apoio
 
--
+  - [CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+  - [Grid Grid - MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Grid_Layout)
+  - [CSS Grid guia completo - Origamid](https://www.origamid.com/projetos/css-grid-layout-guia-completo/)
+  - [Grid by Example](https://gridbyexample.com/examples/)
+  - [CSS Grid Rocketseat - Vídeo](https://www.youtube.com/watch?v=HN1UjzRSdBk&t=)
+  - [CSS Grid Layout e Flexbox (Origamid) - Vídeo](https://www.youtube.com/watch?v=x-4z_u8LcGc)
+  - [Grid Garden - Jogo](https://cssgridgarden.com/)
